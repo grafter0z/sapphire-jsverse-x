@@ -1,0 +1,24 @@
+{
+  "name": "sapphire-jsverse-x",
+  "version": "1.0.0",
+  "description": "Explore the Pythverse with a comprehensive tool for Pythverse exploration and activities.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/grafter0z/sapphire-jsverse-x"
+  },
+  "author": "grafter0z",
+  "license": "MIT",
+  "dependencies": {
+    "sapphire-jsverse-x": "1.0.0",
+    "sapphire-pythverse-x": "1.0.0",
+    "chalk": "1.0.0",
+    "react-redux": "1.0.0",
+    "babel-core": "1.0.0",
+    "ejs": "1.0.0",
+    "mocha": "1.0.0"
+  }
+}
